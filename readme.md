@@ -1,9 +1,17 @@
-#Atividade 1 - Grupo 4 
-Participantes: Rebeca Valenzuela; Ana Teresa; Andressa Helena; Gabriela Bravo; Geovanna Anjos; Huly Santos.
-##Exercicio 1:
+# Atividade 1 - Grupo 4
+
+Participantes: 
+> - Rebeca Valenzuela; 
+> - Ana Teresa; 
+> - Andressa Helena; 
+> - Gabriela Bravo; 
+> - Geovanna Anjos; 
+> - Huly Santos.
+## Exercicio 1:
 Foi criado uma tabuada
-##Exercicio 2:
+## Exercicio 2:
 Foi criado expressoes regulares
+
 CEP: 01311-100
 /^[0-9]{5}\-[0-9]{3}$/;
 
